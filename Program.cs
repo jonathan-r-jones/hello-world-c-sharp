@@ -1,10 +1,12 @@
-using System;
+﻿using System;
 
-namespace myproject
+namespace hello_world_c_sharp
 {
-  class Program
-  {
-    static void Main(string[] args)
-    Console.Write("Hello world.");
-  }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
 }

@@ -1,0 +1,13 @@
+d:\aa\repositories\hello-world-c-sharp\bin\Debug\netcoreapp3.1\hello-world-c-sharp.exe
+d:\aa\repositories\hello-world-c-sharp\bin\Debug\netcoreapp3.1\hello-world-c-sharp.deps.json
+d:\aa\repositories\hello-world-c-sharp\bin\Debug\netcoreapp3.1\hello-world-c-sharp.runtimeconfig.json
+d:\aa\repositories\hello-world-c-sharp\bin\Debug\netcoreapp3.1\hello-world-c-sharp.runtimeconfig.dev.json
+d:\aa\repositories\hello-world-c-sharp\bin\Debug\netcoreapp3.1\hello-world-c-sharp.dll
+d:\aa\repositories\hello-world-c-sharp\bin\Debug\netcoreapp3.1\hello-world-c-sharp.pdb
+d:\aa\repositories\hello-world-c-sharp\obj\Debug\netcoreapp3.1\hello-world-c-sharp.csprojAssemblyReference.cache
+d:\aa\repositories\hello-world-c-sharp\obj\Debug\netcoreapp3.1\hello-world-c-sharp.AssemblyInfoInputs.cache
+d:\aa\repositories\hello-world-c-sharp\obj\Debug\netcoreapp3.1\hello-world-c-sharp.AssemblyInfo.cs
+d:\aa\repositories\hello-world-c-sharp\obj\Debug\netcoreapp3.1\hello-world-c-sharp.csproj.CoreCompileInputs.cache
+d:\aa\repositories\hello-world-c-sharp\obj\Debug\netcoreapp3.1\hello-world-c-sharp.dll
+d:\aa\repositories\hello-world-c-sharp\obj\Debug\netcoreapp3.1\hello-world-c-sharp.pdb
+d:\aa\repositories\hello-world-c-sharp\obj\Debug\netcoreapp3.1\hello-world-c-sharp.genruntimeconfig.cache
